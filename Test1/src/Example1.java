@@ -21,14 +21,14 @@ public class Example1 {
         System.out.println(""+ch1+ch2); //빈문자열이 포함되면서 숫자가 아닌 문자로 더함
         System.out.println(+ch1); // 유니코드 65 출력
         System.out.println(+ch1+ch2); //131
-        String str = "서형원";
+        String str = "Steve";
         System.out.println(str);
         //문자가 여러개 모인 것은 문자열이라고 함
         //문자열은 데이터탑입을 char 대신 String을 사용 (첫글자가 S가 대문자 주의!!)
         //Boolean 타입 예제
         boolean bool = true; // true는 참의 뜻, false는 거짓의 뜻
         System.out.println(bool);
-        
+
 
 
 
